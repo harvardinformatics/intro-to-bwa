@@ -3,6 +3,7 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  - bash_kernel
   - gatk4
   - picard-slim
   - samtools
